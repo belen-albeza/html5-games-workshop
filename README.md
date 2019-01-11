@@ -4,7 +4,7 @@ A workshop that teaches how to develop HTML5 games with JavaScript and [Phaser](
 
 It is meant to last a full day, although it includes sufficient guiding for people to finish it at home if only a short session with a coach is possible.
 
-[**Access the workshop online here**](https://mozdevs.github.io/html5-games-workshop/).
+[**Access the workshop online here**](https://belen-albeza.github.io/html5-games-workshop/).
 
 ![Game screenshot](https://github.com/mozdevs/html5-games-workshop/raw/master/src/assets/assets/platformer/platformer_screenshot.png)
 
